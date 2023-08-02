@@ -1,6 +1,6 @@
 # Morse audio signal beautifier
 
-This is a small tool made for my new YouTube channel called *Morse jokes*: https://youtube.com/@MorseJokes.
+This is a small tool made for my new YouTube channel called *Jokes in Morse code*: https://youtube.com/@MorseJokes.
 
 This channel contains short jokes sent by me in Morse code, so I have some motivation to practice sending. Here's the channel trailer.
 
